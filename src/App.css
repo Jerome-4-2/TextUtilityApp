@@ -1,0 +1,50 @@
+.btn-custom-color-1{
+    background-color: #f55c3a; /* Custom color for button 1 */
+    color: #ffffff; 
+}
+.btn-custom-color-1:hover {
+    background-color: #822d1a; /* lighter shade or any other desired color */
+}
+
+.btn-custom-color-2{
+    background-color: #564fb1; /* Custom color for button 1 */
+    color: #ffffff; 
+}
+.btn-custom-color-2:hover {
+    background-color: #282551; /* lighter shade or any other desired color */
+  }
+
+.btn-custom-color-3{
+    background-color: #571f3e; /* Custom color for button 1 */
+    color: #ffffff; 
+}
+.btn-custom-color-3:hover {
+    background-color: #3a162a; /* lighter shade or any other desired color */
+  }
+
+
+.btn-custom-color-4{
+    background-color: #6f612e; /* Custom color for button 1 */
+    color: #ffffff; 
+}
+.btn-custom-color-4:hover {
+    background-color: #3f371a; /* lighter shade or any other desired color */
+  }
+
+
+.btn-custom-color-5{
+    background-color: #18390e; /* Custom color for button 1 */
+    color: #ffffff; 
+}
+.btn-custom-color-5:hover {
+    background-color: #112909; /* lighter shade or any other desired color */
+  }
+
+
+.btn-custom-color-6{
+    background-color: #a90505; /* Custom color for button 1 */
+    color: #ffffff; 
+}
+.btn-custom-color-6:hover {
+    background-color: #4d0606; /* lighter shade or any other desired color */
+  }
